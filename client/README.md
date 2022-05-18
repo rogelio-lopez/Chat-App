@@ -1,0 +1,2 @@
+- Add TSC type checking (check lvlUp)
+- Add parcel/esbuild doc & code to notion
